@@ -1,0 +1,3482 @@
+repo_name: DrivenIdeaLab/ever-gauzy
+report_id: 847b127ff5adaa93dd30bcf3e04408aa
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-15T18:07:40+00:00'
+requested_by: rahul-rocket
+provider: github
+branch: develop
+detected_tools_count: 253
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: MJML
+  description: The framework that makes responsive email easy
+  website_url: https://mjml.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6440/VwZquHQK_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-01-09 07:55:14.000000000 Z
+- name: Pug
+  description: Robust, elegant, feature rich template engine for nodejs
+  website_url: https://pugjs.org
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-27 22:46:07.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.deploy/api/Dockerfile
+  detection_source: ".deploy/api/Dockerfile"
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-29 09:20:39.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: ceph
+  description: A free-software storage platform
+  website_url: http://ceph.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: File Storage
+  image_url: https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-26 23:38:08.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-05 14:41:03.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 11:09:18.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 17:20:16.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-27 22:46:07.000000000 Z
+- name: ECharts
+  description: A free, powerful charting and visualization library
+  website_url: https://echarts.apache.org/en/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4230/aSzYQa43_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 17:20:16.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 29.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2022-11-28 20:32:01.000000000 Z
+- name: Fastify
+  description: Fast and low overhead web framework, for Node.js
+  website_url: http://www.fastify.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7609/24939410.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-12-09 17:24:04.000000000 Z
+- name: NestJS
+  description: A progressive Node.js framework for building efficient and scalable
+    server-side applications by @kammysliwiec.
+  website_url: nestjs.com
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-15 08:02:02.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.deploy/api/Dockerfile
+  detection_source: ".deploy/api/Dockerfile"
+  last_updated_by: Rahul R
+  last_updated_on: 2024-04-17 07:45:24.000000000 Z
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2023-04-19 18:12:41.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 7.8.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: sutralia
+  last_updated_on: 2021-02-07 15:35:27.000000000 Z
+- name: TypeORM
+  description: An ORM that can run in NodeJS and others
+  website_url: https://typeorm.io/
+  version: 0.3.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7419/20165699.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2020-05-28 22:16:26.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-11 17:39:28.000000000 Z
+- name: GraphQL Playground
+  description: "\U0001F3AE GraphQL IDE for better development workflows (GraphQL Subscriptions,
+    interactive docs &amp; collaboration)"
+  website_url: https://github.com/prisma/graphql-playground
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/9999/20a2b8d1-99a7-499c-bb60-bba9ea75f23c.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-11 17:39:28.000000000 Z
+- name: MQTT
+  description: A machine-to-machine Internet of Things connectivity protocol
+  website_url: http://mqtt.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-01-09 07:55:14.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-11-27 11:40:08.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.18.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: sutralia
+  last_updated_on: 2021-02-07 15:35:27.000000000 Z
+- name: NATS
+  description: Lightweight publish-subscribe &amp; distributed queueing messaging
+    system
+  website_url: https://nats.io
+  version: 2.21.0
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/2066/nats-icon-color.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-01-09 07:55:14.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/desktop-timer/package.json
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: sutralia
+  last_updated_on: 2021-02-07 15:35:27.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 3.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: docker-compose.yml
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-11-27 11:40:08.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/desktop-timer/package.json
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: sutralia
+  last_updated_on: 2021-02-07 15:35:27.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 4.7.5
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-29 10:01:34.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 9.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-01-03 15:27:14.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-18 16:33:36.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/api/package.json
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2022-11-12 08:28:04.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.github/workflows/codeql-analysis.yml
+  detection_source: ".github/workflows/codeql-analysis.yml"
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-26 11:04:48.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-27 22:46:07.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 5.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.deploy/ssh/with-letsencrypt/demo/user_conf.d/nginx.conf
+  detection_source: ".deploy/ssh/with-letsencrypt/demo/user_conf.d/nginx.conf"
+  last_updated_by: Ruslan K
+  last_updated_on: 2024-03-06 20:06:24.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/plugins/integration-github/package.json
+  detection_source: packages/plugins/integration-github/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-25 08:49:44.000000000 Z
+- name: PM2
+  description: Ease-to-use Node.js process manager, like forever
+  website_url: https://github.com/Unitech/pm2
+  version: 5.3.1
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Node.js Process Manager
+  image_url: https://img.stackshare.io/service/2237/757747.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-15 08:02:02.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: Rollbar
+  description: Proactively discover, predict, and remediate errors.
+  website_url: https://rollbar.com/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/328/default_3147629185038a15dd41907749544023633da1ea.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 10:40:44.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/desktop-timer/package.json
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-22 16:14:10.000000000 Z
+- name: Snyk
+  description: Automatically find &amp; fix vulnerabilities in your code, containers,
+    Kubernetes, and Terraform
+  website_url: https://snyk.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5326/6p1SNAJu.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/.snyk
+  detection_source: ".snyk"
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-28 18:12:06.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 15.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-02-08 17:54:49.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-15 08:02:02.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.88.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: yarn.lock
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 16.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-07 14:22:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-15 08:02:02.000000000 Z
+- name: Apollo
+  description: GraphQL server for Express, Connect, Hapi, Koa and more
+  website_url: https://www.apollographql.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/common/package.json
+  detection_source: packages/common/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-01-20 06:14:10.000000000 Z
+- name: Cloudinary
+  description: An end-to-end image &amp; video management solution for your web and
+    mobile applications
+  website_url: http://cloudinary.com/
+  open_source: false
+  hosted_saas: true
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-03-17 06:39:49.000000000 Z
+- name: FilePond
+  description: A flexible and fun JavaScript file upload library
+  website_url: https://pqina.nl/filepond/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Uploads
+  image_url: https://img.stackshare.io/service/11096/Screenshot_2019-06-14_at_10.14.14.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-27 22:46:07.000000000 Z
+- name: Lighthouse
+  description: Beautifully Simple Issue Tracking
+  website_url: http://lighthouseapp.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Issue Tracking
+  image_url: https://img.stackshare.io/service/183/lighthouse_fluid_icon.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: pdfmake
+  description: Client/server side PDF printing in pure JavaScript
+  website_url: http://pdfmake.org
+  open_source: false
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: PDF Tools
+  image_url: https://img.stackshare.io/service/3665/default_9ec0b1ccada9261069f4789939e98f85f21bb4fc.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/desktop/src/package.json
+  detection_source: apps/desktop/src/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:52:12.000000000 Z
+- name: Brace
+  description: Host static websites from the comfort of Dropbox
+  website_url: http://brace.io/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/730/FmOfEvH3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-28 15:27:57.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-11-27 11:40:08.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 6.5.1
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2022-03-06 15:58:59.000000000 Z
+- name: FullCalendar
+  description: A full-sized drag &amp; drop JavaScript event calendar
+  website_url: https://fullcalendar.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/5979/default_8b58ea1423b69bf123fae8f58e4887b9b4fdb1b4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-26 16:02:39.000000000 Z
+- name: Ionicons
+  description: Beautifully crafted open source icons
+  website_url: http://ionicons.com/
+  version: 4.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: UI Components
+  image_url: https://img.stackshare.io/service/5368/icon.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 11:09:18.000000000 Z
+- name: Leaflet
+  description: JavaScript library for mobile-friendly interactive maps
+  website_url: http://leafletjs.com/
+  version: 1.9.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/2392/leaflet_upic.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 09:36:56.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.30.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2023-09-09 19:34:38.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-07 15:32:04.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/auth/package.json
+  detection_source: packages/auth/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-24 11:47:03.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy
+  detection_source: Repo Metadata
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/desktop-timer/package.json
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-30 20:36:52.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-23 06:33:13.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 14:20:15.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/apps/gauzy/package.json
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-09-16 18:32:47.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: pkg
+  description: Package your Node.js project into an executable
+  website_url: https://www.npmjs.com/package/pkg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6883/repo-banner.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2019-06-15 08:02:02.000000000 Z
+- name: semantic-release
+  description: Fully automated version management and package publishing
+  website_url: https://github.com/semantic-release/semantic-release
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10156/12867925.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:18:25.000000000 Z
+- name: formidable
+  description: A node.js module for parsing form data
+  package_url: https://www.npmjs.com/formidable
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-23 06:44:12.000000000 Z
+  vulnerabilities:
+  - name: Formidable arbitrary file upload
+    cve_id: CVE-2022-29622
+    cve_url: https://github.com/advisories/GHSA-8cp3-66vr-3r4c
+    detected_date: Apr 23
+    severity: critical
+    first_patched: 3.2.4
+- name: mysql2
+  description: Fast mysql driver
+  package_url: https://www.npmjs.com/mysql2
+  version: 3.9.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-26 12:27:09.000000000 Z
+  vulnerabilities:
+  - name: mysql2 vulnerable to Prototype Pollution
+    cve_id: CVE-2024-21512
+    cve_url: https://github.com/advisories/GHSA-pmh2-wpjm-fj45
+    detected_date: May 31
+    severity: high
+    first_patched: 3.9.8
+- name: node-static
+  description: Simple, compliant file streaming module for node
+  package_url: https://www.npmjs.com/node-static
+  version: 0.7.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16814/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-30 20:36:52.000000000 Z
+  vulnerabilities:
+  - name: node-static and @nubosoftware/node-static vulnerable to Directory Traversal
+    cve_id: CVE-2023-26111
+    cve_url: https://github.com/advisories/GHSA-5g97-whc9-8g7j
+    detected_date: Mar 8
+    severity: high
+    first_patched:
+  - name: Denial of Service in node-static
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-8r4g-cg4m-x23c
+    detected_date: Sep 23
+    severity: moderate
+    first_patched:
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-27 09:38:41.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 16.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-01-03 15:27:14.000000000 Z
+- name: "@angular-devkit/build-ng-packagr"
+  description: Angular Build Architect for ng-packagr
+  package_url: https://www.npmjs.com/@angular-devkit/build-ng-packagr
+  version: 0.1002.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16595/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: "@angular-devkit/core"
+  description: Angular DevKit - Core Utility Library
+  package_url: https://www.npmjs.com/@angular-devkit/core
+  version: 16.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16682/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-02-23 06:41:23.000000000 Z
+- name: "@angular-devkit/schematics"
+  description: Angular Schematics - Library
+  package_url: https://www.npmjs.com/@angular-devkit/schematics
+  version: 14.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16789/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-02-23 06:41:23.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@angular/cdk"
+  description: Angular Material Component Development Kit
+  package_url: https://www.npmjs.com/@angular/cdk
+  version: 16.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16358/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 16.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-01-03 15:27:14.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-02-23 06:41:23.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-02-23 06:41:23.000000000 Z
+- name: "@angular/material"
+  description: Angular Material
+  package_url: https://www.npmjs.com/@angular/material
+  version: 16.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16444/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-23 06:44:12.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-23 06:44:12.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 16.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@apollo/client"
+  description: A fully-featured caching GraphQL client
+  package_url: https://www.npmjs.com/@apollo/client
+  version: 3.9.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-27 09:38:41.000000000 Z
+- name: "@apollo/server"
+  description: Core engine for Apollo GraphQL server
+  package_url: https://www.npmjs.com/@apollo/server
+  version: 4.10.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 17.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 17.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Rahul R
+  last_updated_on: 2024-04-17 07:45:24.000000000 Z
+- name: "@commitlint/travis-cli"
+  description: Lint all relevant commits for a change or PR on Travis CI
+  package_url: https://www.npmjs.com/@commitlint/travis-cli
+  version: 17.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17903/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: "@compodoc/compodoc"
+  description: The missing documentation tool for your Angular application
+  package_url: https://www.npmjs.com/@compodoc/compodoc
+  version: 1.1.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16652/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 6.5.1
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2022-03-06 15:58:59.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 09:36:56.000000000 Z
+- name: "@fortawesome/free-brands-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-brands-svg-icons
+  version: 6.5.1
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18314/default_8c7316b1ad57adb78204233fc4608152c3b49ac6.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 07:24:21.000000000 Z
+- name: "@fortawesome/free-regular-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-regular-svg-icons
+  version: 6.5.1
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18157/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-02-23 06:41:23.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 6.5.1
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 07:24:21.000000000 Z
+- name: "@nestjs/common"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/common
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/common/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@nestjs/core"
+  description: Nest - modern, fast, powerful node.js web framework
+  package_url: https://www.npmjs.com/@nestjs/core
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-04-26 12:27:09.000000000 Z
+- name: "@nestjs/testing"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/testing
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17855/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@ngx-translate/core"
+  description: The internationalization
+  package_url: https://www.npmjs.com/@ngx-translate/core
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17411/default_11ae83a8e74ae9812850843051a0501a3bb5313f.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-30 20:36:52.000000000 Z
+- name: "@ngx-translate/http-loader"
+  description: A loader for ngx-translate that loads translations using http
+  package_url: https://www.npmjs.com/@ngx-translate/http-loader
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18279/default_807e706fb4295a0b54623f7e1643199bb97a2590.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2022-11-15 18:56:58.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 18.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/plugins/integration-github/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-25 08:49:44.000000000 Z
+- name: "@semantic-release/changelog"
+  description: Semantic-release plugin to create or update a changelog file
+  package_url: https://www.npmjs.com/@semantic-release/changelog
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16473/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: "@semantic-release/git"
+  description: Semantic-release plugin to commit release assets to the project's git
+    repository
+  package_url: https://www.npmjs.com/@semantic-release/git
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16388/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:18:25.000000000 Z
+- name: "@semantic-release/github"
+  description: Semantic-release plugin to publish a GitHub release and comment on
+    released Pull Requests/Issues
+  package_url: https://www.npmjs.com/@semantic-release/github
+  version: 9.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17137/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:18:25.000000000 Z
+- name: "@semantic-release/npm"
+  description: Semantic-release plugin to publish a npm package
+  package_url: https://www.npmjs.com/@semantic-release/npm
+  version: 11.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16690/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:18:25.000000000 Z
+- name: "@sentry/browser"
+  description: Official Sentry SDK for browsers
+  package_url: https://www.npmjs.com/@sentry/browser
+  version: 7.107.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18385/default_3918a37cf2f76449e061a2c79fb02113faa1391a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@sentry/node"
+  description: Offical Sentry SDK for Node.js
+  package_url: https://www.npmjs.com/@sentry/node
+  version: 7.107.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-22 16:14:10.000000000 Z
+- name: "@types/async"
+  description: TypeScript definitions for Async
+  package_url: https://www.npmjs.com/@types/async
+  version: 3.2.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17144/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-18 15:23:25.000000000 Z
+- name: "@types/graphql"
+  description: TypeScript definitions for graphql
+  package_url: https://www.npmjs.com/@types/graphql
+  version: 14.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16543/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-18 15:23:25.000000000 Z
+- name: "@types/hammerjs"
+  description: TypeScript definitions for Hammer.js
+  package_url: https://www.npmjs.com/@types/hammerjs
+  version: 2.0.45
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17205/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-01-03 15:27:14.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 20.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: "@types/leaflet"
+  description: TypeScript definitions for Leaflet.js
+  package_url: https://www.npmjs.com/@types/leaflet
+  version: 1.9.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18718/default_417b40eb0d0e57406cf660ce53dd8dec69c7401d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-18 15:23:25.000000000 Z
+- name: "@types/passport"
+  description: TypeScript definitions for Passport
+  package_url: https://www.npmjs.com/@types/passport
+  version: 1.0.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18669/default_3ed0a361a097c631ee66d5aace42497748694521.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 09:18:14.000000000 Z
+- name: "@types/socket.io"
+  description: TypeScript definitions for socket.io
+  package_url: https://www.npmjs.com/@types/socket.io
+  version: 2.1.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17219/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@types/supertest"
+  description: TypeScript definitions for SuperTest
+  package_url: https://www.npmjs.com/@types/supertest
+  version: 2.0.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: "@types/underscore"
+  description: TypeScript definitions for Underscore
+  package_url: https://www.npmjs.com/@types/underscore
+  version: 1.11.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17484/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 3.4.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: "@types/webpack"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack
+  version: 5.28.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 15.0.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: apollo-server-core
+  description: Core engine for Apollo GraphQL server
+  package_url: https://www.npmjs.com/apollo-server-core
+  version: 3.13.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/common/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-01-20 06:14:10.000000000 Z
+- name: apollo-server-express
+  description: Production-ready Node.js GraphQL server for Express and Connect
+  package_url: https://www.npmjs.com/apollo-server-express
+  version: 3.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17501/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: app-root-path
+  description: Determine an app's root path from anywhere inside the app
+  package_url: https://www.npmjs.com/app-root-path
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16640/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2022-11-12 16:11:30.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-07-09 15:26:23.000000000 Z
+- name: bcrypt
+  description: A bcrypt library for NodeJS
+  package_url: https://www.npmjs.com/bcrypt
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16526/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2022-12-28 15:06:35.000000000 Z
+- name: brace
+  description: Browserify compatible version of the ace editor
+  package_url: https://www.npmjs.com/brace
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17373/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-28 15:27:57.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2022-05-23 12:14:40.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 14:20:15.000000000 Z
+- name: class-transformer
+  description: Proper decorator-based transformation / serialization / deserialization
+    of plain javascript objects to class constructors
+  package_url: https://www.npmjs.com/class-transformer
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17651/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: class-validator
+  description: Class-based validation with Typescript / ES6 / ES5 using decorators
+    or validation schemas
+  package_url: https://www.npmjs.com/class-validator
+  version: 0.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17583/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-06 19:36:57.000000000 Z
+- name: cli-ux
+  description: Cli IO utilities
+  package_url: https://www.npmjs.com/cli-ux
+  version: 5.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17636/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-02-08 17:54:49.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: commitizen
+  description: Git commit, but play nice with conventions
+  package_url: https://www.npmjs.com/commitizen
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16008/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: connect-redis
+  description: Redis session store for Connect
+  package_url: https://www.npmjs.com/connect-redis
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17325/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 16:32:52.000000000 Z
+- name: consolidate
+  description: Template engine consolidation library
+  package_url: https://www.npmjs.com/consolidate
+  version: 0.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16791/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 11:09:18.000000000 Z
+- name: conventional-changelog
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog
+  version: 3.1.25
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: conventional-changelog-cli
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog-cli
+  version: 2.2.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16260/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: copyfiles
+  description: Copy some files
+  package_url: https://www.npmjs.com/copyfiles
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16453/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-07-22 10:48:39.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 09:36:56.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Rahul R
+  last_updated_on: 2024-04-17 07:45:24.000000000 Z
+- name: cross-fetch
+  description: Universal WHATWG Fetch API for Node
+  package_url: https://www.npmjs.com/cross-fetch
+  version: 3.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: csurf
+  description: CSRF token middleware
+  package_url: https://www.npmjs.com/csurf
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18435/default_a5ed378627de312208d3c349f612c8beb1238df7.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-01-27 12:38:31.000000000 Z
+- name: cz-conventional-changelog
+  description: Commitizen adapter following the conventional-changelog format
+  package_url: https://www.npmjs.com/cz-conventional-changelog
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15961/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 7.9.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-27 22:46:07.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-10-05 06:53:20.000000000 Z
+- name: electron-builder
+  description: A complete solution to package and build a ready for distribution Electron
+    app for MacOS
+  package_url: https://www.npmjs.com/electron-builder
+  version: 24.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17567/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: electron-packager
+  description: Customize and package your Electron app with OS-specific bundles
+  package_url: https://www.npmjs.com/electron-packager
+  version: 17.1.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17433/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: eslint-plugin-cypress
+  description: An ESLint plugin for projects using Cypress
+  package_url: https://www.npmjs.com/eslint-plugin-cypress
+  version: 2.13.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18548/default_0998c3a5bd64540d478b8f189bd9d22c3c17b6a0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2022-11-28 20:32:01.000000000 Z
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-31 13:26:18.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 17:47:53.000000000 Z
+- name: fork-ts-checker-webpack-plugin
+  description: Runs typescript type checker and linter on separate process
+  package_url: https://www.npmjs.com/fork-ts-checker-webpack-plugin
+  version: 7.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/src/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-04 22:59:29.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2022-05-13 07:50:18.000000000 Z
+- name: graphql-tools
+  description: Useful tools to create and manipulate GraphQL schemas
+  package_url: https://www.npmjs.com/graphql-tools
+  version: 8.3.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16697/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-11 17:39:28.000000000 Z
+- name: gulp-tag-version
+  description: Tag git repository with current package version
+  package_url: https://www.npmjs.com/gulp-tag-version
+  version: 1.3.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17436/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: hammerjs
+  description: A javascript library for multi-touch gestures
+  package_url: https://www.npmjs.com/hammerjs
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16521/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-09-02 21:38:15.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-28 15:27:57.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-01-27 12:38:31.000000000 Z
+- name: html-to-text
+  description: Advanced html to plain text converter
+  package_url: https://www.npmjs.com/html-to-text
+  version: 9.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18417/default_866295ec9b57ad977c956d0fed2e144aaca6c4a0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-08-22 09:31:31.000000000 Z
+- name: html2canvas
+  description: Screenshots with JavaScript
+  package_url: https://www.npmjs.com/html2canvas
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17554/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-08-22 09:31:31.000000000 Z
+- name: htmlparser2
+  description: Fast &amp; forgiving HTML/XML/RSS parser
+  package_url: https://www.npmjs.com/htmlparser2
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16705/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/src/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-04 22:59:29.000000000 Z
+- name: http-proxy
+  description: HTTP proxying for the masses
+  package_url: https://www.npmjs.com/http-proxy
+  version: 1.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/desktop-libs/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2023-08-25 17:35:19.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: iconv
+  description: Text recoding in JavaScript for fun and profit!
+  package_url: https://www.npmjs.com/iconv
+  version: 3.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17911/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 11:09:18.000000000 Z
+- name: image-size
+  description: Get dimensions of any image file
+  package_url: https://www.npmjs.com/image-size
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16919/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-01-20 08:59:52.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 9.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-09-02 21:38:15.000000000 Z
+- name: intl
+  description: Polyfill the ECMA-402 Intl API
+  package_url: https://www.npmjs.com/intl
+  version: 1.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16877/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2021-01-28 15:27:57.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.99.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-28 21:31:55.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Rahul R
+  last_updated_on: 2024-04-17 07:45:24.000000000 Z
+- name: jimp
+  description: An image processing library written entirely in JavaScript
+  package_url: https://www.npmjs.com/jimp
+  version: 0.22.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16902/default_3260e41a86e21f9dd1deddcf0a6e09720ec49021.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-03-10 11:16:40.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-22 12:32:39.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: karma-cli
+  description: The Karma command line interface
+  package_url: https://www.npmjs.com/karma-cli
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2021-12-13 13:47:01.000000000 Z
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/src/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-04 22:59:29.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: lodash-es
+  description: Lodash exported as ES modules
+  package_url: https://www.npmjs.com/lodash-es
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 16:32:52.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.30.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2023-09-09 19:34:38.000000000 Z
+- name: moment-timezone
+  description: Parse and display moments in any timezone
+  package_url: https://www.npmjs.com/moment-timezone
+  version: 0.5.45
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Adolphe Kifungo
+  last_updated_on: 2023-09-09 19:34:38.000000000 Z
+- name: ng-packagr
+  description: Compile and package a TypeScript library to Angular Package Format
+  package_url: https://www.npmjs.com/ng-packagr
+  version: 16.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16114/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-07 15:32:04.000000000 Z
+- name: node-notifier
+  description: A Node.js module for sending notifications on native Mac
+  package_url: https://www.npmjs.com/node-notifier
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16146/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Kifungo A
+  last_updated_on: 2024-02-17 18:24:32.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: parse5
+  description: HTML parser and serializer
+  package_url: https://www.npmjs.com/parse5
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: passport-facebook
+  description: Facebook authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-facebook
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17972/default_5cd4226daecf35530a193ea8bd553edbe0c69ed1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-24 11:47:03.000000000 Z
+- name: passport-jwt
+  description: Passport authentication strategy using JSON Web Tokens
+  package_url: https://www.npmjs.com/passport-jwt
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-24 11:47:03.000000000 Z
+- name: passport-oauth2
+  description: OAuth 2.0 authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-oauth2
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17962/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-24 11:47:03.000000000 Z
+- name: passport-twitter
+  description: Twitter authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-twitter
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18746/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/auth/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2023-12-24 11:47:03.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: sutralia
+  last_updated_on: 2021-02-07 15:35:27.000000000 Z
+- name: pretty-quick
+  description: Get Pretty Quick
+  package_url: https://www.npmjs.com/pretty-quick
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: randomcolor
+  description: A tiny script for generating attractive random colors
+  package_url: https://www.npmjs.com/randomcolor
+  version: 0.6.2
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18595/default_cdfbfc8ddc0cad865ade3e84444b993ccd8e67de.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2022-05-23 12:14:40.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-03-18 15:23:25.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  version: 1.22.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy-e2e/package.json
+  last_updated_by: Yavor
+  last_updated_on: 2021-06-28 13:35:46.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: screenfull
+  description: Simple wrapper for cross-browser usage of the JavaScript Fullscreen
+    API
+  package_url: https://www.npmjs.com/screenfull
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17952/default_d8903d76dded6915fe2da53370802097e7af05c2.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-26 16:02:39.000000000 Z
+- name: semantic-release
+  description: Automated semver compliant package publishing
+  package_url: https://www.npmjs.com/semantic-release
+  version: 22.0.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:18:25.000000000 Z
+- name: simple-git
+  description: Simple GIT interface for node.js
+  package_url: https://www.npmjs.com/simple-git
+  version: 3.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16567/default_d6ff16957d0b119d673d5ec0eb21b08d8d5008f4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/common-angular/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-01-19 16:24:53.000000000 Z
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 5.1.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-28 21:52:12.000000000 Z
+- name: swiper
+  description: Most modern mobile touch slider and framework with hardware accelerated
+    transitions
+  package_url: https://www.npmjs.com/swiper
+  version: 8.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17656/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2022-07-26 09:29:40.000000000 Z
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.19.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  version: 5.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-07 14:22:31.000000000 Z
+- name: tsconfig-paths
+  description: Load node modules according to tsconfig paths
+  package_url: https://www.npmjs.com/tsconfig-paths
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.9.3
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/desktop-timer/src/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-04 22:59:29.000000000 Z
+- name: tslint-config-prettier
+  description: Do you wanna use tslint and prettier without conflicts? tslint-config-prettier
+    disables all conflicting rules that may cause such problems
+  package_url: https://www.npmjs.com/tslint-config-prettier
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16083/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: tslint-language-service
+  description: Tslint - language services
+  package_url: https://www.npmjs.com/tslint-language-service
+  version: 0.9.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18389/default_3918a37cf2f76449e061a2c79fb02113faa1391a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-03-04 18:56:20.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.23.28
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-02-01 22:59:35.000000000 Z
+- name: underscore.string
+  description: String manipulation extensions for Underscore.js javascript library
+  package_url: https://www.npmjs.com/underscore.string
+  version: 3.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16268/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-28 09:36:56.000000000 Z
+- name: unzipper
+  description: Unzip cross-platform streaming API
+  package_url: https://www.npmjs.com/unzipper
+  version: 0.10.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18608/default_a335cb090acf9ce9e4f4caed37544c3f870176b2.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: packages/core/package.json
+  last_updated_by: Rahul Rathore
+  last_updated_on: 2021-02-08 17:54:49.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2022-05-23 12:14:40.000000000 Z
+- name: web-animations-js
+  description: JavaScript implementation of the Web Animations API
+  package_url: https://www.npmjs.com/web-animations-js
+  version: 2.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17217/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2023-12-27 09:18:14.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 4.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-20 10:45:42.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 5.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2024-04-19 17:25:13.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/api/package.json
+  last_updated_by: Ruslan Konviser
+  last_updated_on: 2022-07-30 18:39:11.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.14.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ever-gauzy/blob/develop/yarn.lock
+  detection_source: apps/gauzy/package.json
+  last_updated_by: RAHUL RATHORE
+  last_updated_on: 2024-01-03 10:23:18.000000000 Z
